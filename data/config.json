@@ -1,7 +1,7 @@
 {
-    "invite_code": "invite code, only CODE",
-    "use_proxy": "y or n",
-    "random_usernames": "y or n",
-    "save_method": "text or sqlite or both",
-    "threads": 3
+    "invite_code": "EvxOGYRk",
+    "use_proxy": "n",
+    "random_usernames": "n",
+    "save_method": "both",
+    "threads": 500
 }
